@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+	padding: 10px;
+	background-color: rgb(241, 241, 241);
+	max-width: 300px;
+	margin: 100px auto;
+}
+
+.title {
+	margin: 0 0 10px 0;
+	text-align: center;
+}
+
+.list {
+	text-align: center;
+	list-style-type: none;
+	padding: 10px;
+}
+
+.chicken {
+	margin-bottom: 5px;
+}
+
+.pesto {
+	margin-bottom: 5px;
+}
