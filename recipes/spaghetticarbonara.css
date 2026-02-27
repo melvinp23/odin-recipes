@@ -6,16 +6,16 @@
 }
 
 nav {
-	background-color: #bebebe;
+	background-color: #eeeeee;
 	padding: 10px;
 	max-width: fit-content;
 	margin: 10px;
 }
 
 div {
+	width: fit-content;
 	background-color: #eeeeee;
-	margin-left: 100px;
-	margin-bottom: 50px;
+	margin: 50px auto;
 	max-width: 80%;
 	padding: 20px;
 }
